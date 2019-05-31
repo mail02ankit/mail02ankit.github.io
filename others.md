@@ -17,8 +17,10 @@ Four tier black forest gateau is one of my best creation.
 | Moistest carrot cake | Wattleseed Cream Profiteroles |
 
 ##  Hiking
-| ![Hiking/Travels](../images/geneva1.jpg){:height="350px" width="350px"} | ![Hiking/Travels](../images/hobart.jpg){:height="350px" width="350px"} |
-| Sanctuary of Santa Maria Island, Tropea, Italy | Wine Yards in Lausanne, Switzerland  |
 
-|![Hiking/Travels](../images/western_ghats.jpg){:height="350px" width="350px"} |
+| ![Hiking/Travels](../images/geneva1.jpg){:height="350px" width="350px"} | ![Hiking/Travels](../images/hobart.jpg){:height="350px" width="350px"} |
+| Sanctuary of Santa Maria Island, Tropea, Italy|Wine Yards in Lausanne, Switzerland  |
+
+
+|![Hiking/Travels](../images/western_ghats.jpg){:height="350px" width="350px"}|
 | Mount Wellington, Hobart, Australia|Western Ghats|
