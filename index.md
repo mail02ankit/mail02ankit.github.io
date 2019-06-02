@@ -3,10 +3,17 @@
 layout: home
 ---
 
-## BIOGRAPHY 
 <span style="color:black; font-family:Sans; font-size: 1em;">
-My current research interest is in understanding what role environment plays in the formation and evolution of galaxies. I use both
-![profile pic](../images/profile.png){:style="float:right; margin-right:7px; margin-top:7px;" :height="200px" width="200px"}
-observations and simulations for this purpose. I don't like to classify myself as an observer or
-a theorist. I believe that physical insights can only be achieved by combining predictions of theoretical models orsimulations with observations.
+I am a physics graduate student at [North Carolina State University](https://www.ncsu.edu). My
+thesis advisor is [Prof. Alexander F. Kemper (Lex)](https://physics.ncsu.edu). I consider myself first and foremost a
+scientist whose objects of interest happen to be condensed matter.
+
+Prior to that, I completed my masters [BS-MS dual degree] from Indian Institute
+of Science Education and Research (IISER Mohali Punjab, India). I joined NC
+![profile pic](../images/profile.png){:style="float:right; margin-right:7px; margin-top:7px;" :height="150px" width="150px"}
+State in 2014 and started working in the group in 2016. Currently, I am
+looking at the dynamics of Cooper pairs in 2D superconductors when an
+ultra-fast laser pulse drives the system out of an equilibrium state. I use
+Non-equilibrium Green Functions approach with Many Body Perturbation Series
+to simulate the dynamics of Cooper pairs.
 </span>
