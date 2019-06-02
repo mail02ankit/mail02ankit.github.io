@@ -7,6 +7,7 @@ layout: home
 I am a physics graduate student at [North Carolina State University](https://www.ncsu.edu). My
 thesis advisor is [Prof. Alexander F. Kemper (Lex)](https://physics.ncsu.edu). I consider myself first and foremost a
 scientist whose objects of interest happen to be condensed matter.
+</span>
 
 Prior to that, I completed my masters [BS-MS dual degree] from Indian Institute
 of Science Education and Research (IISER Mohali Punjab, India). I joined NC
@@ -16,4 +17,3 @@ looking at the dynamics of Cooper pairs in 2D superconductors when an
 ultra-fast laser pulse drives the system out of an equilibrium state. I use
 Non-equilibrium Green Functions approach with Many Body Perturbation Series
 to simulate the dynamics of Cooper pairs.
-</span>
