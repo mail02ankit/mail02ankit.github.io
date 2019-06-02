@@ -19,3 +19,5 @@ looking at the dynamics of Cooper pairs in 2D superconductors when an
 ultra-fast laser pulse drives the system out of an equilibrium state. He uses
 Non-equilibrium Green Functions approach with Many Body Perturbation Series
 to simulate the dynamics of Cooper pairs.
+
+[CV ]( ../docs/CV_Academics.pdf)
