@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "Markdown syntax!"
 date:   2019-05-29 20:33:44 -0400
 categories: jekyll update
 ---
