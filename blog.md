@@ -8,4 +8,3 @@ permalink: /blog/
 My posts and update.
 
 
-
