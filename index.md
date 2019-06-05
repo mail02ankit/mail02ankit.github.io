@@ -15,7 +15,7 @@ India). I produced my masters thesis on *Complex Dynamical  Networks* under supe
 
 ![profile pic](../images/profile.png){:style="float:right; margin-left:40px; margin-top:0px;margin-bottom:20px;" :height="150px" width="150px"}
 
-My current research focuses on the dynamics of quasi-particles in correlated condensed
+My research focuses on the dynamics of quasi-particles in correlated condensed
 matter systems. Mainly, I try to look at the system from a non-equilibrium perspective where we perturb a correlated electron system by a time-dependent
 interaction and study the properties of the developed non-equilibrium state
 in the time domain. I mainly use diagrammatic perturbation theory on the
@@ -24,9 +24,4 @@ particle propagators. I have also used tools of density functional theory,
 dynamical mean field theory, and semi-analytical methods to study the electronic, transport and optical properties of a variety
 of systems ranging from superconductors, Mott insulators and other phases of metals.
 
-Currently, I am looking at the dynamics of Cooper pairs in 2D
-superconductors when an ultra-fast laser pulse drives the system out of an
-equilibrium state. I use Non-equilibrium Green Functions approach with Many
-Body Perturbation Series to simulate the dynamics of Cooper pairs.
-
-[Academic CV ]( ../docs/CV_Academics.pdf)
+You may find my academic CV [here]( ../docs/CV_Academics.pdf).

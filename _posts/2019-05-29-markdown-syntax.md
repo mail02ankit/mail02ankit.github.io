@@ -21,6 +21,20 @@ print_hi('Tom')
 
 Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
 
+## Image placement
+* We may should html syntax to place image at the required position.
+  * At center
+  <p align="center">
+  <img height="100" width="100" src="../images/profile.png">
+  </p>
+* Left
+
+  <img align="left" width="100" height="100" src="../images/profile.png">
+* Right
+
+  <img align="right" width="100" height="100" src="../images/profile.png">
+
+
 [jekyll-docs]: https://jekyllrb.com/docs/home
 [jekyll-gh]:   https://github.com/jekyll/jekyll
 [jekyll-talk]: https://talk.jekyllrb.com/
