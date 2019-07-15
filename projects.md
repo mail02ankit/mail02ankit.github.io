@@ -5,7 +5,7 @@ permalink: /projects/
 ---
 
 ## High $T_c$ superconductor
- Understanding the mechanism behind high temperature superconductivity has been one of the challenges in condensed
+ **P01** Understanding the mechanism behind high temperature superconductivity has been one of the challenges in condensed
  matter physics. The particular momentum structure of the electron-boson coupling plays a crucial role in the formation
  of Cooper pairs, which can lead to the enhanced superconductivity. One such example is electron-phonon interaction that                                                     
  is peaked in the forward direction. This interaction has been suggested as an essential ingredient for enhanced
@@ -21,7 +21,7 @@ permalink: /projects/
 <img  src="../images/q0.jpg">
 </p>
 
-[Arxiv](https://arxiv.org/abs/1712.10019),
+[Arxiv](https://arxiv.org/abs/1712.10019)
 
 ## Higgs mode in superconductors
 Within the context of superconductivity, the excitations of superconducting condensate are of great interest.
@@ -36,7 +36,7 @@ mode can be excited, and observed thorough the time-resolved optical conductivit
 by an intense, ultra-fast EM field.
 
 ### time-resolved optical conductivity
-We studied the dynamics of Cooper pairs in a s-wave superconductor when an ultra-fast laser pulse drives the system out of an equilibrium state. Through functional derivation, the optical conductivity is obtained with full
+**P02** We studied the dynamics of Cooper pairs in a s-wave superconductor when an ultra-fast laser pulse drives the system out of an equilibrium state. Through functional derivation, the optical conductivity is obtained with full
 vertex corrections and used to characterize the transient superconducting
 state. The transient optical conductivity shows the suppression of the
 superconducting order parameter in the time domain. The subsequent recovery
@@ -50,8 +50,9 @@ Higgs amplitude mode, and may be seen in several parts of the spectrum.
 [Arxiv](http://arxiv.org/abs/1902.09549)
 
 ### With moving condensate
-In addition to the higher order coupling of the Higgs mode to EM field, presence of a small supercurrent in the sample can also facilitate coupling of the Higgs 
+**P03** In addition to the higher order coupling of the Higgs mode to EM field, presence of a small supercurrent in the sample can also facilitate coupling of the Higgs 
 mode to EM field in the linear-regime. Motivated by the recent theory and experimental work, we studied dynamics of the superconductivity condensate in the presence 
 of a small supercurrent. We found that the condensate momentum induces a asymmetry of the spectral gap on the Fermi level which leads to momentum-dependent 
 oscillation frequency and phase of the Higgs mode.
+**In process**
 
