@@ -4,11 +4,26 @@ title: "Projects"
 permalink: /projects/
 ---
 
+## High $T_c$ superconductor
+ Understanding the mechanism behind high temperature superconductivity has been one of the challenges in condensed
+ matter physics. The particular momentum structure of the electron-boson coupling plays a crucial role in the formation
+ of Cooper pairs, which can lead to the enhanced superconductivity. One such example is electron-phonon interaction that                                                     
+ is peaked in the forward direction. This interaction has been suggested as an essential ingredient for enhanced
+ superconductivity observed in FeSe monolayers on STO substrates. We study the superconducting state of a system
+ dominated by forward scattering using non-equilibrium methods and contrast its behavior against the standard isotropic
+ BCS case. Our study shows that the superconducting order in the forward-focused case is robust and persistent against
+ the pump-induced perturbations. The superconducting order parameter also exhibits a non-uniform melting in momentum
+ space, which could be measured by time-resolved ARPES. We show that this behavior is in sharp contrast to the isotropic
+ interaction case and propose that time-resolved approaches are a potentially powerful tool to differentiate the nature
+ of the dominant coupling in correlated materials.
 
-## Forward scattering high $T_c$ superconductor
+<p align="center">
+<img  src="../images/q0.jpg">
+</p>
 
+[Arxiv](https://arxiv.org/abs/1712.10019),
 
-## Higgs mode in linear-regime
+## Higgs mode in superconductors
 Within the context of superconductivity, the excitations of superconducting condensate are of great interest.
 Experimentally, it is difficult to excite a superconducting order because the order parameter is a scalar field
 (spinless and chargeless), and does not couple to a vector electromagnetic (EM) field in the linear regime.
@@ -32,4 +47,11 @@ Higgs amplitude mode, and may be seen in several parts of the spectrum.
 <img height="250" width="350" src="../images/higgs_pp.jpg">
 </p>
 
+[Arxiv](http://arxiv.org/abs/1902.09549)
+
+### With moving condensate
+In addition to the higher order coupling of the Higgs mode to EM field, presence of a small supercurrent in the sample can also facilitate coupling of the Higgs 
+mode to EM field in the linear-regime. Motivated by the recent theory and experimental work, we studied dynamics of the superconductivity condensate in the presence 
+of a small supercurrent. We found that the condensate momentum induces a asymmetry of the spectral gap on the Fermi level which leads to momentum-dependent 
+oscillation frequency and phase of the Higgs mode.
 

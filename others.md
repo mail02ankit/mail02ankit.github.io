@@ -4,9 +4,7 @@ title: "Others"
 permalink: /others/
 ---
 
-
-Apart from astronomy I enjoy reading, hiking and my new found passion is baking.
-Four tier black forest gateau is one of my best creation.
+Apart from physics, I enjoy hiking, playing games and cooking. I have gained expertise in Indian cuisines and now learning Italian dishes.
 
 ## Baking 
 
