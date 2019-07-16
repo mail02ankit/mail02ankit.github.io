@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: "Ankit Kumar" 
-author: "@ankit_kumar"
+author: "a guy"
 email: mail02ankit@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Just updates about my research, life and stuff. 
@@ -30,14 +30,14 @@ mathjax: true
 minima:
   # generate social links in footer
   social_links:
-    twitter: ankie 
-    github:  ankie
+    #twitter: bholu 37
+    github: mail02ankit
     # rss: rss
     # dribbble: jekyll
     # facebook: jekyll
     # flickr:   jekyll
     # instagram: jekyll
-    # linkedin: jekyll
+    linkedin: mail02ankit
     # pinterest: jekyll
     # youtube: jekyll
 

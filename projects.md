@@ -4,7 +4,7 @@ title: "Projects"
 permalink: /projects/
 ---
 
-## High $T_c$ superconductor
+## High $T_c$ superconductors
  **P01** Understanding the mechanism behind high temperature superconductivity has been one of the challenges in condensed
  matter physics. The particular momentum structure of the electron-boson coupling plays a crucial role in the formation
  of Cooper pairs, which can lead to the enhanced superconductivity. One such example is electron-phonon interaction that                                                     
@@ -54,5 +54,22 @@ Higgs amplitude mode, and may be seen in several parts of the spectrum.
 mode to EM field in the linear-regime. Motivated by the recent theory and experimental work, we studied dynamics of the superconductivity condensate in the presence 
 of a small supercurrent. We found that the condensate momentum induces a asymmetry of the spectral gap on the Fermi level which leads to momentum-dependent 
 oscillation frequency and phase of the Higgs mode.
+
 **In process**
 
+
+## time-resolved response functions
+In condensed matter physics, response functions have their own place for the mathematical complexity and experimental accessibility.
+Mathematically, any response function represents a two-particle retarded correlator  that exhibits dynamics and statics of
+collective excitations: for example charge-charge susceptibility gives plasmons, current-current susceptibility gives
+conductivity and many others. Experimentally, many response functions can be measured and provide support and
+verification for the existence of a collective mode. Theoretically, the evaluation of a response function requires
+solution to the Bethe-Salpeter equation which is difficult to solve because we need to solve a self-consistent equation
+for the vertex. 
+
+Recently, we combined the tools from different areas and found a method to solve the BS equation using a numerical
+functional derivation approach. Through the functional derivation, the optical conductivity for superconducting state is
+obtained with full vertex corrections and used to characterize the transient superconducting state. We are now extending
+this method to evaluate other response functions.
+
+**In process**
