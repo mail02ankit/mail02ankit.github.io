@@ -4,14 +4,20 @@ title: "Others"
 permalink: /others/
 ---
 
-Apart from physics, I enjoy hiking, playing games and cooking. I have gained expertise in Indian cuisines and now learning Italian dishes.
+Apart from physics, I enjoy hiking, playing e/sports and cooking. I have gained expertise in Indian cuisines.
 
-## Baking 
+##  Places
 
-|![Baking](../images/black_forest.jpg){:height="350px" width="350px"}|![Baking](../images/muffins.jpg){:height="350px" width="350px"}|
-|Black Forest Gateau|Dates and Walnuts Brioche muffins|
+| ![Hiking/Travels](../images/3sis.jpg){:height="350px" width="350px"}| ![Hiking/Travels](../images/3sis_morning.jpg){:height="350px" width="350px"}|
+| Three Sisters, Blue Mountains Australia| Three Sisters, Blue Mountains Australia |
 
-##  Hiking
+| ![Hiking/Travels](../images/galveston_texas.jpg){:height="350px" width="350px"}| ![Hiking/Travels](../images/milledgeville_georgia.jpg){:height="350px" width="350px"}|
+| Galveston, Texas, USA| Milledgeville, Georgia, USA |
 
-|![Hiking/Travels](../images/western_ghats.jpg){:height="350px" width="350px"}|
-| Mount Wellington, Hobart, Australia|Western Ghats|
+| ![Hiking/Travels](../images/triund_peak.jpg){:height="350px" width="350px"}| ![Hiking/Travels](../images/shimla.jpg){:height="350px" width="350px"}|
+| Triund, Himachal Pradesh, India | Tara Devi Temple, Himachal Pradesh, India  |
+
+| ![Hiking/Travels](../images/niagara.jpg){:height="350px" width="350px"}| ![Hiking/Travels](../images/cedar_point.jpg){:height="350px" width="350px"}|
+| Niagara Falls, New York, USA| Cedar Point, Ohio, USA  |
+
+
