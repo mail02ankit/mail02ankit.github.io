@@ -10,7 +10,7 @@ University](https://www.ncsu.edu) (NCSU). My PhD thesis advisor is [Prof. Alexan
 Kemper (Lex)](https://physics.ncsu.edu). I joined NCSU in fall 2014 and
 started working on my thesis in Lex's group in April 2016. Prior to
 that, I earned my masters *BS-MS dual degree* from [Indian Institute of
-Science Education and Research](www.iisermohali.ac.in) (IISER Mohali Punjab,
+Science Education and Research](http://www.iisermohali.ac.in) (IISER Mohali Punjab,
 India). I did my masters thesis on *Complex Dynamical  Networks* under supervision of [Prof. Sudeshna Sinha](http://14.139.227.202/Faculty/sudeshna/).
 
 ![profile pic](../images/profile.png){:style="float:right; margin-left:40px; margin-top:0px;margin-bottom:20px;" :height="150px" width="150px"}
