@@ -18,7 +18,7 @@ permalink: /projects/
  of the dominant coupling in correlated materials.
 
 <p align="center">
-<img  src="../images/q0.jpg">
+<img  src=" /images/q0.jpg">
 </p>
 
 [Arxiv](https://arxiv.org/abs/1712.10019)
@@ -44,7 +44,7 @@ of the order parameter exhibits oscillatory behavior that corresponds to the
 Higgs amplitude mode, and may be seen in several parts of the spectrum.
 
 <p align="center">
-<img height="250" width="350" src="../images/higgs_pp.jpg">
+<img height="250" width="350" src=" /images/higgs_pp.jpg">
 </p>
 
 [Arxiv](http://arxiv.org/abs/1902.09549)
