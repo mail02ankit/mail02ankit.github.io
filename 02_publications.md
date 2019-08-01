@@ -4,6 +4,8 @@ title: "Publications"
 permalink: /publications/
 ---
 
+Publications and Citations database [ADS Library](https://ui.adsabs.harvard.edu/public-libraries/GenfDFZvTECuoIrnChPeHw) 
+
 0. **Kumar, A.**, and Kemper, A.F. (2019).
 *Higgs Oscillations in time-resolved Optical Conductivity.*
 [Arxiv](http://arxiv.org/abs/1902.09549)
