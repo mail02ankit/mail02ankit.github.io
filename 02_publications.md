@@ -6,6 +6,11 @@ permalink: /publications/
 
 Publications and Citations database [ADS Library](https://ui.adsabs.harvard.edu/public-libraries/GenfDFZvTECuoIrnChPeHw) 
 
+0. John P. Revelle, **Kumar, A.**, and Kemper, A.F. (2019).
+*Theory of Time-Resolved Optical Conductivity of Superconductors: Comparing Two Methods for Its Evaluation*
+[Arxiv]()
+[Journal](https://www.mdpi.com/2410-3896/4/3/79)
+
 0. **Kumar, A.**, and Kemper, A.F. (2019).
 *Higgs Oscillations in time-resolved Optical Conductivity.*
 [Arxiv](http://arxiv.org/abs/1902.09549)
