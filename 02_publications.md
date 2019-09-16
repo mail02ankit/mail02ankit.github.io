@@ -8,7 +8,7 @@ Publications and Citations database [ADS Library](https://ui.adsabs.harvard.edu/
 
 0. John P. Revelle, **Kumar, A.**, and Kemper, A.F. (2019).
 *Theory of Time-Resolved Optical Conductivity of Superconductors: Comparing Two Methods for Its Evaluation*
-[Arxiv]()
+[Arxiv](ihttps://arxiv.org/abs/1909.04669)
 [Journal](https://www.mdpi.com/2410-3896/4/3/79)
 
 0. **Kumar, A.**, and Kemper, A.F. (2019).
