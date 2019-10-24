@@ -14,6 +14,7 @@ Publications and Citations database [ADS Library](https://ui.adsabs.harvard.edu/
 0. **Kumar, A.**, and Kemper, A.F. (2019).
 *Higgs Oscillations in time-resolved Optical Conductivity.*
 [Arxiv](http://arxiv.org/abs/1902.09549)
+[Journal- Accepted for a publication in PRB](http://arxiv.org/abs/1902.09549))
 
 0. **Kumar, A.**, Johnston, S., and Kemper, A.F. (2019).
 *Identifying a forward-scattering superconductor through pump-probe spectroscopy.*
