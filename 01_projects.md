@@ -36,12 +36,12 @@ mode can be excited, and observed thorough the time-resolved optical conductivit
 by an intense, ultra-fast EM field.
 
 ### time-resolved optical conductivity
-**P02** We studied the dynamics of Cooper pairs in a s-wave superconductor when an ultra-fast laser pulse drives the system out of an equilibrium state. Through functional derivation, the optical conductivity is obtained with full
-vertex corrections and used to characterize the transient superconducting
-state. The transient optical conductivity shows the suppression of the
-superconducting order parameter in the time domain. The subsequent recovery
-of the order parameter exhibits oscillatory behavior that corresponds to the
-Higgs amplitude mode, and may be seen in several parts of the spectrum.
+**P02** We studied the dynamics of Cooper pairs in a s-wave superconductor when an ultra-fast laser pulse drives the
+system out of an equilibrium state. Through functional derivation, the optical conductivity is obtained with full vertex
+corrections and used to characterize the transient superconducting state. The transient optical conductivity shows the
+suppression of the superconducting order parameter in the time domain. The subsequent recovery of the order parameter
+exhibits oscillatory behavior that corresponds to the Higgs amplitude mode, and may be seen in several parts of the
+spectrum.
 
 <p align="center">
 <img height="250" width="350" src=" /images/higgs_pp.jpg">
@@ -50,26 +50,29 @@ Higgs amplitude mode, and may be seen in several parts of the spectrum.
 [Arxiv](http://arxiv.org/abs/1902.09549)
 
 ### With moving condensate
-**P03** In addition to the higher order coupling of the Higgs mode to EM field, presence of a small supercurrent in the sample can also facilitate coupling of the Higgs 
-mode to EM field in the linear-regime. Motivated by the recent theory and experimental work, we studied dynamics of the superconductivity condensate in the presence 
-of a small supercurrent. We found that the condensate momentum induces a asymmetry of the spectral gap on the Fermi level which leads to momentum-dependent 
-oscillation frequency and phase of the Higgs mode.
+**P03** In addition to the higher order coupling of the Higgs mode to EM field, presence of a small supercurrent in the
+sample can also facilitate coupling of the Higgs mode to EM field in the linear-regime. Motivated by the recent theory
+and experimental work, we studied dynamics of the superconductivity condensate in the presence of a small supercurrent.
+We found that the condensate momentum induces a asymmetry of the spectral gap on the Fermi level which leads to
+momentum-dependent oscillation frequency and phase of the Higgs mode.
 
 **In process**
 
 
 ## time-resolved response functions
-In condensed matter physics, response functions have their own place for the mathematical complexity and experimental accessibility.
-Mathematically, any response function represents a two-particle retarded correlator  that exhibits dynamics and statics of
-collective excitations: for example charge-charge susceptibility gives plasmons, current-current susceptibility gives
-conductivity and many others. Experimentally, many response functions can be measured and provide support and
-verification for the existence of a collective mode. Theoretically, the evaluation of a response function requires
-solution to the Bethe-Salpeter equation which is difficult to solve because we need to solve a self-consistent equation
-for the vertex. 
+In condensed matter physics, response functions have their own place for the mathematical complexity and experimental
+accessibility.  Mathematically, any response function represents a two-particle retarded correlator that exhibits
+dynamics and statics of collective excitations: for example charge-charge susceptibility gives plasmons, current-current
+susceptibility gives conductivity and many others. Experimentally, many response functions can be measured and provide
+support and verification for the existence of a collective mode. Theoretically, the evaluation of a response function
+requires solution to the Bethe-Salpeter equation which is difficult to solve because we need to solve a self-consistent
+equation for the vertex. 
 
 Recently, we combined the tools from different areas and found a method to solve the BS equation using a numerical
 functional derivation approach. Through the functional derivation, the optical conductivity for superconducting state is
 obtained with full vertex corrections and used to characterize the transient superconducting state. We are now extending
 this method to evaluate other response functions.
+
+[Arxiv](http://arxiv.org/abs/1902.09549)
 
 **In process**

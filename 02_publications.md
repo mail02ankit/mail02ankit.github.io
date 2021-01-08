@@ -6,6 +6,10 @@ permalink: /publications/
 
 Publications and Citations database [ADS Library](https://ui.adsabs.harvard.edu/public-libraries/GenfDFZvTECuoIrnChPeHw) 
 
+0. Sun, Rui and Yang, Shijia and Yang, Xu and **Kumar, A.**  et al. (2020).
+*Visualizing Tailored Spin Phenomena in a Reduced-Dimensional Topological Superlattice.*
+[Journal](https://onlinelibrary.wiley.com/doi/10.1002/adma.202005315)
+
 0. **Kumar, A.**, and Kemper, A.F. (2019).
 *Higgs Oscillations in time-resolved Optical Conductivity.*
 [Arxiv](http://arxiv.org/abs/1902.09549)
