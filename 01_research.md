@@ -1,8 +1,16 @@
 ---
 layout: page
-title: "Projects"
-permalink: /projects/
+title: "Research"
+permalink: /research/
 ---
+My research focuses on the dynamics of quasi-particles in correlated condensed matter systems. Mainly, I try to analyze
+the system from a non-equilibrium perspective where we perturb a correlated electron system by a time-dependent
+interaction and study properties of the developed non-equilibrium state in the time domain. I use density
+matrix theory and diagrammatic perturbation theory on the Keldysh contour to solve the relevant equations of motion for
+one and two-particle Green's functions. I also use tools of density functional theory, dynamical mean-field theory, and
+semi-analytical methods to study the electronic, transport, and optical properties of a variety of systems ranging from
+superconductors, Mott insulators, topological insulators, and other phases of metals.
+
 
 ## High $T_c$ superconductors
  **P01** Understanding the mechanism behind high temperature superconductivity has been one of the challenges in condensed
@@ -56,9 +64,6 @@ and experimental work, we studied dynamics of the superconductivity condensate i
 We found that the condensate momentum induces a asymmetry of the spectral gap on the Fermi level which leads to
 momentum-dependent oscillation frequency and phase of the Higgs mode.
 
-**In process**
-
-
 ## time-resolved response functions
 In condensed matter physics, response functions have their own place for the mathematical complexity and experimental
 accessibility.  Mathematically, any response function represents a two-particle retarded correlator that exhibits
@@ -74,5 +79,3 @@ obtained with full vertex corrections and used to characterize the transient sup
 this method to evaluate other response functions.
 
 [Arxiv](http://arxiv.org/abs/1902.09549)
-
-**In process**
